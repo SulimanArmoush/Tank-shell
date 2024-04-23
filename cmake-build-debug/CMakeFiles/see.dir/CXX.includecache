@@ -1,0 +1,28 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+D:/ITE/Y3/GL/OpenGL/see/Point.h
+
+D:/ITE/Y3/GL/OpenGL/see/PrimitiveDrawer.h
+
+D:/ITE/Y3/GL/OpenGL/see/main.cpp
+GL/glut.h
+D:/ITE/Y3/GL/OpenGL/see/GL/glut.h
+windows.h
+-
+Point.h
+D:/ITE/Y3/GL/OpenGL/see/Point.h
+PrimitiveDrawer.h
+D:/ITE/Y3/GL/OpenGL/see/PrimitiveDrawer.h
+math.h
+D:/ITE/Y3/GL/OpenGL/see/math.h
+texture.h
+D:/ITE/Y3/GL/OpenGL/see/texture.h
+
+D:/ITE/Y3/GL/OpenGL/see/texture.h
+
